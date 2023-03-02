@@ -1,4 +1,13 @@
 [
+    {
+    "name": "NFTSquared",
+    "projectLogo": "https://avatars.githubusercontent.com/u/126548828?s=200&v=4",
+    "coverage": "Audit",
+    "type": "NFT",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/arbitrum.jpg",
+    "stages": "Finished",
+    "auditFileName": "NFTSquared.pdf"
+  },
      {
     "name": "VideoFi",
     "projectLogo": "https://dehacker.s3.ap-southeast-1.amazonaws.com/videofi.jpg",
