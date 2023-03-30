@@ -82,5 +82,14 @@
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
     "auditFileName": "API3.pdf"
-  
+  },
+
+     {
+    "name": "illuvium",
+    "projectLogo": "https://twitter.com/illuviumio/photo",
+    "coverage": "Audit",
+    "type": "GameFi",
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "Finished",
+    "auditFileName": "illuvium.pdf"
 ]
