@@ -85,12 +85,12 @@
   },
 
      {
-    "name": "illuvium",
+    "name": "Llluvium",
     "projectLogo": "https://s2.loli.net/2023/03/30/h1l2Oa5H6pAE8Sg.jpg",
     "coverage": "Audit",
     "type": "GameFi",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "illuvium.pdf"
+    "auditFileName": "Llluvium.pdf"
   }
 ]
