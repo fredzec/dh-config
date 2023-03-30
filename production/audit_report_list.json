@@ -72,6 +72,15 @@
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
     "auditFileName": "Trustfi.pdf"
-  }
+  },
+
+     {
+    "name": "API3",
+    "projectLogo": "https://s2.loli.net/2023/03/30/FMqfsbStIwH3CPX.jpg",
+    "coverage": "Audit",
+    "type": "Others",
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "Finished",
+    "auditFileName": "API3.pdf"
   
 ]
