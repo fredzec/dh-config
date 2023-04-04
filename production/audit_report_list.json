@@ -92,5 +92,15 @@
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
     "auditFileName": "Llluvium.pdf"
+  },
+
+     {
+    "name": "Trust Wallet",
+    "projectLogo": "https://s2.loli.net/2023/04/04/kVoiJBuxCNPhtmI.png",
+    "coverage": "Audit",
+    "type": "Token",
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "Finished",
+    "auditFileName": "TWT Token.pdf"
   }
 ]
