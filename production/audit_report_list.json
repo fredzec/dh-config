@@ -102,5 +102,15 @@
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
     "auditFileName": "TWT Token.pdf"
+  },
+
+     {
+    "name": "Ankr",
+    "projectLogo": "https://i.ibb.co/X80xGXS/ANKR.jpg",
+    "coverage": "Audit",
+    "type": "Token",
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "Finished",
+    "auditFileName": "ANKR Token.pdf"
   }
 ]
