@@ -112,5 +112,15 @@
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
     "auditFileName": "ANKR Token.pdf"
+  },
+
+     {
+    "name": "Immutable X",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1635864512266924033/hUrm7bVI_400x400.jpg",
+    "coverage": "Audit",
+    "type": "Others",
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "Finished",
+    "auditFileName": "ANKR Token.pdf"
   }
 ]
