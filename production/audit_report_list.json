@@ -132,5 +132,15 @@
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
     "auditFileName": "Axelar Network.pdf"
+  },
+
+     {
+    "name": "Axelar Network",
+    "projectLogo": "https://i.ibb.co/4FRdR1n/V-65-x-Q1-400x400.jpg",
+    "coverage": "Audit",
+    "type": "Others",
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "Finished",
+    "auditFileName": "Axelar Network.pdf"
   }
 ]
