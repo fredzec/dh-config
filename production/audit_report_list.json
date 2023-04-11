@@ -142,5 +142,15 @@
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
     "auditFileName": "UniCrypt.pdf"
+  },
+
+     {
+    "name": "Balancer",
+    "projectLogo": "https://i.ibb.co/QcPG4dQ/RYCU7-d-Z-400x400.png",
+    "coverage": "Audit",
+    "type": "Others",
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "Finished",
+    "auditFileName": "Balancer.pdf"
   }
 ]
