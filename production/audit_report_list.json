@@ -192,5 +192,15 @@
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
     "auditFileName": "Kunci Coin.pdf"
+  },
+
+     {
+    "name": "Rubic Finance",
+    "projectLogo": "https://i.ibb.co/q5yHz86/s-G3-V0-U-3-400x400.jpg",
+    "coverage": "Audit",
+    "type": "Others",
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "Finished",
+    "auditFileName": "Rubic Finance.pdf"
   }
 ]
