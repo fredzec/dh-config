@@ -89,7 +89,7 @@
     "projectLogo": "https://s2.loli.net/2023/03/30/h1l2Oa5H6pAE8Sg.jpg",
     "coverage": "Audit",
     "type": "GameFi",
-    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
     "auditFileName": "Llluvium.pdf"
   },
@@ -109,7 +109,7 @@
     "projectLogo": "https://i.ibb.co/X80xGXS/ANKR.jpg",
     "coverage": "Audit",
     "type": "Token",
-    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
     "auditFileName": "ANKR Token.pdf"
   },
@@ -129,7 +129,7 @@
     "projectLogo": "https://i.ibb.co/4FRdR1n/V-65-x-Q1-400x400.jpg",
     "coverage": "Audit",
     "type": "Others",
-    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
     "auditFileName": "Axelar Network.pdf"
   },
@@ -149,7 +149,7 @@
     "projectLogo": "https://i.ibb.co/QcPG4dQ/RYCU7-d-Z-400x400.png",
     "coverage": "Audit",
     "type": "Others",
-    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
     "auditFileName": "Balancer.pdf"
   },
@@ -179,7 +179,7 @@
     "projectLogo": "https://pbs.twimg.com/profile_images/1488173250588909571/6aUp_3KW_400x400.jpg",
     "coverage": "Audit",
     "type": "DeFi",
-    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
     "auditFileName": "SXP.pdf"
   },
@@ -199,7 +199,7 @@
     "projectLogo": "https://i.ibb.co/q5yHz86/s-G3-V0-U-3-400x400.jpg",
     "coverage": "Audit",
     "type": "Others",
-    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
     "auditFileName": "Rubic Finance.pdf"
   }
