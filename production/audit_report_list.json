@@ -1,15 +1,7 @@
 [
     
 
-     {
-    "name": "OpenFi",
-    "projectLogo": "https://dehacker.s3.ap-southeast-1.amazonaws.com/OpenFi.jpg",
-    "coverage": "Audit",
-    "type": "Dex",
-    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/arbitrum.jpg",
-    "stages": "Finished",
-    "auditFileName": "OpenFi.pdf"
-  },
+  
     {
     "name": "NFTSquared",
     "projectLogo": "https://dehacker.s3.ap-southeast-1.amazonaws.com/NFTSquared.png",
@@ -18,6 +10,15 @@
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/arbitrum.jpg",
     "stages": "Finished",
     "auditFileName": "NFTSquared.pdf"
+  },
+       {
+    "name": "OpenFi",
+    "projectLogo": "https://dehacker.s3.ap-southeast-1.amazonaws.com/OpenFi.jpg",
+    "coverage": "Audit",
+    "type": "Dex",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/arbitrum.jpg",
+    "stages": "Finished",
+    "auditFileName": "OpenFi.pdf"
   },
      {
     "name": "VideoFi",
