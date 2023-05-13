@@ -1,4 +1,15 @@
 [
+    
+
+     {
+    "name": "OpenFi",
+    "projectLogo": "https://dehacker.s3.ap-southeast-1.amazonaws.com/NFTSquared.png",
+    "coverage": "Audit",
+    "type": "Dex",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/OpenFi.jpg",
+    "stages": "Finished",
+    "auditFileName": "OpenFi.pdf"
+  },
     {
     "name": "NFTSquared",
     "projectLogo": "https://dehacker.s3.ap-southeast-1.amazonaws.com/NFTSquared.png",
