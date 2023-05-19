@@ -1,6 +1,14 @@
 [
     
-
+{
+    "name": "ZERONE",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1626942021498978305/jGMGaLbt_400x400.jpg",
+    "coverage": "Audit",
+    "type": "Dex",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/arbitrum.jpg",
+    "stages": "Finished",
+    "auditFileName": "ZERONE.pdf"
+  },
   
     {
     "name": "NFTSquared",
@@ -214,15 +222,7 @@
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
     "auditFileName": "Rubic Finance.pdf"
-   },
+   }
 
-     {
-    "name": "ZERONE",
-    "projectLogo": "https://pbs.twimg.com/profile_images/1626942021498978305/jGMGaLbt_400x400.jpg",
-    "coverage": "Audit",
-    "type": "Dex",
-    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/arbitrum.jpg",
-    "stages": "Finished",
-    "auditFileName": "ZERONE.pdf"
-  }
+     
 ]
