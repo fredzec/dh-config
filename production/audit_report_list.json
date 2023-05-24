@@ -1,5 +1,13 @@
 [
-    
+    {
+    "name": "Themis Pro",
+    "projectLogo": "https://dehacker.s3.ap-southeast-1.amazonaws.com/Themis+Pro.jpg",
+    "coverage": "Audit",
+    "type": "Dex",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/fvm.jpg",
+    "stages": "Finished",
+    "auditFileName": "Themis Pro.pdf"
+  },
 {
     "name": "ZERONE",
     "projectLogo": "https://pbs.twimg.com/profile_images/1626942021498978305/jGMGaLbt_400x400.jpg",
