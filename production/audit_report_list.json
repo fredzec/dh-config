@@ -41,6 +41,16 @@
     "auditFileName": "LTO.pdf"
   },
     
+    {
+    "name": "NFTSquared",
+    "projectLogo": "https://dehacker.s3.ap-southeast-1.amazonaws.com/NFTSquared.png",
+    "coverage": "Audit",
+    "type": "NFT",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/arbitrum.jpg",
+    "stages": "Finished",
+    "auditFileName": "NFTSquared.pdf"
+  },  
+  
      {
     "name": "Immutable X",
     "projectLogo": "https://pbs.twimg.com/profile_images/1652027246398550018/3yQcX1ZE_400x400.jpg",
@@ -212,8 +222,6 @@
     "stages": "Finished",
     "auditFileName": "CheersLand.pdf"
   },
-  
-    
 
      {
     "name": "API3",
@@ -224,17 +232,6 @@
     "stages": "Finished",
     "auditFileName": "API3.pdf"
   },
-
-    
-  {
-    "name": "NFTSquared",
-    "projectLogo": "https://dehacker.s3.ap-southeast-1.amazonaws.com/NFTSquared.png",
-    "coverage": "Audit",
-    "type": "NFT",
-    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/arbitrum.jpg",
-    "stages": "Finished",
-    "auditFileName": "NFTSquared.pdf"
-  },  
 
    {
     "name": "VideoFi",
