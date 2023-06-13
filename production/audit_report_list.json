@@ -1,5 +1,13 @@
 [
-  
+   {
+    "name": "TALKI",
+    "projectLogo": "https://dehacker.s3.ap-southeast-1.amazonaws.com/TALKI.jpg",
+    "coverage": "Audit",
+    "type": "Token",
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "Finished",
+    "auditFileName": "TALKI.pdf"
+  },
      {
     "name": "ZERONE",
     "projectLogo": "https://pbs.twimg.com/profile_images/1626942021498978305/jGMGaLbt_400x400.jpg",
@@ -19,8 +27,33 @@
     "stages": "Finished",
     "auditFileName": "Themis.pdf"
   },
-
-    
+   {
+    "name": "Swash",
+    "projectLogo": "https://dehacker.s3.ap-southeast-1.amazonaws.com/SWASH.png",
+    "coverage": "Audit",
+    "type": "Others",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
+    "stages": "Finished",
+    "auditFileName": "Swash.pdf"
+  },
+ {
+    "name": "Marlin",
+    "projectLogo": "https://dehacker.s3.ap-southeast-1.amazonaws.com/Marlin.jpg",
+    "coverage": "Audit",
+    "type": "Token",
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "Finished",
+    "auditFileName": "Marlin.pdf"
+  },
+    {
+    "name": "Oraichain",
+    "projectLogo": "https://dehacker.s3.ap-southeast-1.amazonaws.com/Oraichain.jpg",
+    "coverage": "Audit",
+    "type": "Token",
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "Finished",
+    "auditFileName": "Oraichain.pdf"
+  },
     {
     "name": "OpenFi",
     "projectLogo": "https://dehacker.s3.ap-southeast-1.amazonaws.com/OpenFi.jpg",
@@ -30,7 +63,15 @@
     "stages": "Finished",
     "auditFileName": "OpenFi.pdf"
   },
-  
+  {
+    "name": "Paraswap",
+    "projectLogo": "https://dehacker.s3.ap-southeast-1.amazonaws.com/ParaSwap.jpg",
+    "coverage": "Audit",
+    "type": "Dex",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
+    "stages": "Finished",
+    "auditFileName": "Paraswap.pdf"
+  },
      {
     "name": "LTO",
     "projectLogo": "https://pbs.twimg.com/profile_images/1661717895897059330/9ztJjFuK_400x400.jpg",
