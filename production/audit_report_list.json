@@ -1,4 +1,95 @@
 [
+
+
+
+   {
+    "name": "Morpheus",
+    "projectLogo": "https://dehacker.s3.ap-southeast-1.amazonaws.com/MORPHEUS.png",
+    "coverage": "Audit",
+    "type": "Others",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
+    "stages": "Finished",
+    "auditFileName": "Morpheus.pdf"
+  },
+     {
+    "name": "Everdome",
+    "projectLogo": "https://dehacker.s3.ap-southeast-1.amazonaws.com/Everdome.jpg",
+    "coverage": "Audit",
+    "type": "Gaming",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
+    "stages": "Finished",
+    "auditFileName": "Everdome.pdf"
+  },
+     {
+    "name": "SxpSwap",
+    "projectLogo": "https://dehacker.s3.ap-southeast-1.amazonaws.com/SxpSwap.jpg",
+    "coverage": "Audit",
+    "type": "DeFi",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
+    "stages": "Finished",
+    "auditFileName": "SxpSwap.pdf"
+  },
+     {
+    "name": "Voxel",
+    "projectLogo": "https://dehacker.s3.ap-southeast-1.amazonaws.com/Voxel.jpg",
+    "coverage": "Audit",
+    "type": "Gaming",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/polygon.jpg",
+    "stages": "Finished",
+    "auditFileName": "Voxel.pdf"
+  },
+     {
+    "name": "LIFE",
+    "projectLogo": "https://dehacker.s3.ap-southeast-1.amazonaws.com/LIFE.jpg",
+    "coverage": "Audit",
+    "type": "DeFi",
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "Finished",
+    "auditFileName": "LIFE.pdf"
+  },
+     {
+    "name": "DMTR",
+    "projectLogo": "https://dehacker.s3.ap-southeast-1.amazonaws.com/DMTR+Token.jpg",
+    "coverage": "Audit",
+    "type": "Token",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
+    "stages": "Finished",
+    "auditFileName": "DMTR.pdf"
+  },
+     {
+    "name": "Singularity",
+    "projectLogo": "https://dehacker.s3.ap-southeast-1.amazonaws.com/Singularity.jpg",
+    "coverage": "Audit",
+    "type": "DAO",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
+    "stages": "Finished",
+    "auditFileName": "Singularity.pdf"
+  },
+     {
+    "name": "Opulous",
+    "projectLogo": "https://dehacker.s3.ap-southeast-1.amazonaws.com/Opulous.jpg",
+    "coverage": "Audit",
+    "type": "Staking",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/Algorand.jpg",
+    "stages": "Finished",
+    "auditFileName": "Opulous.pdf"
+  },
+     {
+    "name": "MetaBeat",
+    "projectLogo": "https://dehacker.s3.ap-southeast-1.amazonaws.com/Metabase.jpg",
+    "coverage": "Audit",
+    "type": "DeFi",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/polygon.jpg",
+    "stages": "Finished",
+    "auditFileName": "MetaBeat.pdf"
+  },
+
+
+
+
+
+
+   
    {
     "name": "TALKI",
     "projectLogo": "https://dehacker.s3.ap-southeast-1.amazonaws.com/TALKI.jpg",
