@@ -63,7 +63,7 @@
     "type": "DAO",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "Singularity .pdf"
+    "auditFileName": "Singularity.pdf"
   },
      {
     "name": "Opulous",
