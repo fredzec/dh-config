@@ -1,5 +1,13 @@
 [
-   
+   {
+    "name": "Shentu",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1432558505492426753/-ozUT-pe_400x400.jpg",
+    "coverage": "Audit",
+    "type": "DeFi",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
+    "stages": "Finished",
+    "auditFileName": "Shentu.pdf"
+  },
    {
     "name": "Morpheus",
     "projectLogo": "https://dehacker.s3.ap-southeast-1.amazonaws.com/MORPHEUS.png",
