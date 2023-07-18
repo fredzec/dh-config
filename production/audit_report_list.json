@@ -1,4 +1,13 @@
 [
+    {
+    "name": "ZKSwap V2",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1648881691111587840/rc1Lrsvk_400x400.jpg",
+    "coverage": "Audit",
+    "type": "Dex",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
+    "stages": "Finished",
+    "auditFileName": "ZKSpace.pdf"
+   },
    {
     "name": "Venus",
     "projectLogo": "https://pbs.twimg.com/profile_images/1610622448289841158/BKTv-i5R_400x400.jpg",
