@@ -1,5 +1,32 @@
 [
     {
+    "name": "Fabwelt Token",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1614959234843643904/yxON8Tsg_400x400.jpg",
+    "coverage": "Audit",
+    "type": "Dex",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/polygon.jpg",
+    "stages": "Finished",
+    "auditFileName": "Fabwelt Token.pdf"
+   },
+    {
+    "name": "Vita Inu",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1592466825593266177/CTv4blML_400x400.jpg",
+    "coverage": "Audit",
+    "type": "meme",
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "Finished",
+    "auditFileName": "Vita Inu.pdf"
+   },
+    {
+    "name": "Vulcan Forged",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1322968789860974596/VBNYEwtl_400x400.jpg",
+    "coverage": "Audit",
+    "type": "Gamefi",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
+    "stages": "Finished",
+    "auditFileName": "Vulcan Forged.pdf"
+   },
+    {
     "name": "DODO DEX",
     "projectLogo": "https://pbs.twimg.com/profile_images/1609395974220419072/CRMmnoAz_400x400.jpg",
     "coverage": "Audit",
