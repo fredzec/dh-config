@@ -1,4 +1,22 @@
 [
+   {
+    "name": "MILC",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1479490804343312392/Nvjj1cXN_400x400.jpg",
+    "coverage": "Audit",
+    "type": "Meme",
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "Finished",
+    "auditFileName": "MILC.pdf"
+   },    
+    {
+    "name": "DAO Maker",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1616776183852535816/Hsp7NQLz_400x400.jpg",
+    "coverage": "Audit",
+    "type": "Defi",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
+    "stages": "Finished",
+    "auditFileName": "DAO Maker.pdf"
+   },
     {
     "name": "Fabwelt Token",
     "projectLogo": "https://pbs.twimg.com/profile_images/1614959234843643904/yxON8Tsg_400x400.jpg",
