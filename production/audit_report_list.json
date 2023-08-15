@@ -1,5 +1,14 @@
 [
     {
+    "name": "Meld",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1375181208531914765/aMIkbfuh_400x400.jpg",
+    "coverage": "Audit",
+    "type": "Defi",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
+    "stages": "Finished",
+    "auditFileName": "Meld.pdf"
+   },  
+    {
     "name": "Polkamarkets",
     "projectLogo": "https://pbs.twimg.com/profile_images/1663568842541473792/4d_sWsDp_400x400.jpg",
     "coverage": "Audit",
