@@ -1,5 +1,32 @@
 [
     {
+    "name": "Hillstone Finance",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1490960622582132740/Qx9Sx6i6_400x400.jpg",
+    "coverage": "Audit",
+    "type": "DeFi",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
+    "stages": "Finished",
+    "auditFileName": "Hillstone Finance.pdf"
+   }, 
+    {
+    "name": "Beyond Protocol",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1395098876844064768/06GcDQ94_400x400.png",
+    "coverage": "Audit",
+    "type": "DeFi",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
+    "stages": "Finished",
+    "auditFileName": "Beyond Protocol.pdf"
+   }, 
+    {
+    "name": "Oggy Inu",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1672193760057491456/jGCFVDjp_400x400.jpg",
+    "coverage": "Audit",
+    "type": "Others",
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "Finished",
+    "auditFileName": "Oggy Inu.pdf"
+   }, 
+    {
     "name": "Meld",
     "projectLogo": "https://pbs.twimg.com/profile_images/1375181208531914765/aMIkbfuh_400x400.jpg",
     "coverage": "Audit",
