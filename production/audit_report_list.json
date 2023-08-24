@@ -1,4 +1,13 @@
 [
+      {
+    "name": "Friend3 Group",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1693856785642483712/2f568kAQ_400x400.jpg",
+    "coverage": "Audit",
+    "type": "SocialFi",
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "Finished",
+    "auditFileName": "Friend3.pdf"
+   }, 
     {
     "name": "Hillstone Finance",
     "projectLogo": "https://pbs.twimg.com/profile_images/1490960622582132740/Qx9Sx6i6_400x400.jpg",
