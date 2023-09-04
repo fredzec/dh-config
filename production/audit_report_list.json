@@ -3,7 +3,7 @@
     "name": "Fwc Token",
     "projectLogo": "https://pbs.twimg.com/profile_images/1631396448276193297/qUaXLm0c_400x400.jpg",
     "coverage": "Audit",
-    "type": "DeFi",
+    "type": "Defi",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
     "auditFileName": "fwc token.pdf"
