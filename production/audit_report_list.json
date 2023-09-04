@@ -1,4 +1,31 @@
 [
+    {
+    "name": "Fwc Token",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1631396448276193297/qUaXLm0c_400x400.jpg",
+    "coverage": "Audit",
+    "type": "DeFi",
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "Finished",
+    "auditFileName": "fwc token.pdf"
+   }, 
+    {
+    "name": "GoMining",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1664210850033401857/aBrx-ij0_400x400.jpg",
+    "coverage": "Audit",
+    "type": "DeFi",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
+    "stages": "Finished",
+    "auditFileName": "GoMining.pdf"
+   }, 
+    {
+    "name": "LABEL",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1468143479226204161/Lwk7A2cD_400x400.jpg",
+    "coverage": "Audit",
+    "type": "DeFi",
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "Finished",
+    "auditFileName": "LABEL.pdf"
+   }, 
       {
     "name": "Friend3 Group",
     "projectLogo": "https://dehacker.s3.ap-southeast-1.amazonaws.com/Friend3.jpg",
