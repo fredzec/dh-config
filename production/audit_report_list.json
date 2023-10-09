@@ -1,5 +1,23 @@
 [
     {
+    "name": "CeluvPlay",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1691728213888860160/Gy7m5yzb_400x400.jpg",
+    "coverage": "Audit",
+    "type": "Infrastructure",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/polygon.jpg",
+    "stages": "Finished",
+    "auditFileName": "CeluvPlay.pdf"
+   }, 
+    {
+    "name": "MixMarvel",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1607617655502176257/_n8jdiyB_400x400.png",
+    "coverage": "Audit",
+    "type": "Gamefi",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
+    "stages": "Finished",
+    "auditFileName": "MixMarvel.pdf"
+   }, 
+    {
     "name": "Self Crypto",
     "projectLogo": "https://pbs.twimg.com/profile_images/1612508362377158692/zHupiJk9_400x400.jpg",
     "coverage": "Audit",
