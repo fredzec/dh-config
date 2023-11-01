@@ -1,5 +1,14 @@
 [
     {
+    "name": "C-patex",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1668936499750944772/ajhjO1Bk_400x400.jpg",
+    "coverage": "Audit",
+    "type": "Defi",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
+    "stages": "Finished",
+    "auditFileName": "C-patex.pdf"
+   }, 
+    {
     "name": "JusticeDAO",
     "projectLogo": "https://dehacker.s3.ap-southeast-1.amazonaws.com/JusticeDAO.png",
     "coverage": "Audit",
