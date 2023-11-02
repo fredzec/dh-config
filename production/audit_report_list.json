@@ -1,5 +1,32 @@
 [
     {
+    "name": "Guild Token",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1647164501391966208/4xfajw7Q_400x400.jpg",
+    "coverage": "Audit",
+    "type": "NFT",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
+    "stages": "Finished",
+    "auditFileName": "Guild Token.pdf"
+   }, 
+    {
+    "name": "KATANA INU",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1628567047914287105/4g9wam8-_400x400.jpg",
+    "coverage": "Audit",
+    "type": "NFT",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
+    "stages": "Finished",
+    "auditFileName": "KATANA INU.pdf"
+   }, 
+    {
+    "name": "Gptguru",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1646921204597415940/a2lDjmTn_400x400.jpg",
+    "coverage": "Audit",
+    "type": "Defi",
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "Finished",
+    "auditFileName": "Gptguru.pdf"
+   }, 
+    {
     "name": "C-patex",
     "projectLogo": "https://pbs.twimg.com/profile_images/1668936499750944772/ajhjO1Bk_400x400.jpg",
     "coverage": "Audit",
