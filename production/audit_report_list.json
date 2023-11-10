@@ -1,4 +1,22 @@
-[
+[    
+    {
+    "name": "BENFT",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1638058714551709700/9K9E2jXr_400x400.jpg",
+    "coverage": "Audit",
+    "type": "NFT",
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "Finished",
+    "auditFileName": "BENFT.pdf"
+   },
+    {
+    "name": "Seascape",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1622557311632801792/Xs-BSFhr_400x400.jpg",
+    "coverage": "Audit",
+    "type": "DeFi",
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "Finished",
+    "auditFileName": "Seascape.pdf"
+   },
     {
     "name": "Guild Token",
     "projectLogo": "https://pbs.twimg.com/profile_images/1647164501391966208/4xfajw7Q_400x400.jpg",
