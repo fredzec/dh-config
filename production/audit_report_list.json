@@ -1,4 +1,31 @@
-[    
+[   
+    {
+    "name": "Taboo",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1418512236927139840/z8J88QHo_400x400.jpg",
+    "coverage": "Audit",
+    "type": "DeFi",
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "Finished",
+    "auditFileName": "Liquidus Finance.pdf"
+   },
+    {
+    "name": "Taboo",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1549778328567136264/DQ8_EzlW_400x400.jpg",
+    "coverage": "Audit",
+    "type": "ERC-20",
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "Finished",
+    "auditFileName": "Taboo.pdf"
+   },
+    {
+    "name": "Kiwigo",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1394579114309292039/1TE6oioG_400x400.jpg",
+    "coverage": "Audit",
+    "type": "DeFi",
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
+    "stages": "Finished",
+    "auditFileName": "Kiwigo.pdf"
+   },
     {
     "name": "BENFT",
     "projectLogo": "https://pbs.twimg.com/profile_images/1638058714551709700/9K9E2jXr_400x400.jpg",
