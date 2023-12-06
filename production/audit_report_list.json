@@ -1,5 +1,14 @@
 [   
     {
+    "name": "LOVELY Inu",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1680337072580857856/9yP5GMxH_400x400.jpg",
+    "coverage": "Audit",
+    "type": "MEME",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
+    "stages": "Finished",
+    "auditFileName": "LOVELY Inu.pdf"
+   },    
+    {
     "name": "EqiToken",
     "projectLogo": "https://pbs.twimg.com/profile_images/1452991239679250456/Jgfc5cq9_400x400.jpg",
     "coverage": "Audit",
