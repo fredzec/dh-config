@@ -1,5 +1,14 @@
 [   
     {
+    "name": "Bad Idea AI",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1721223882185609216/L-GbNfgb_400x400.jpg",
+    "coverage": "Audit",
+    "type": "AI",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
+    "stages": "Finished",
+    "auditFileName": "Bad Idea AI.pdf"
+   },
+    {
     "name": "Rune.Game",
     "projectLogo": "https://pbs.twimg.com/profile_images/1558514707580928000/nBY4QjPv_400x400.png",
     "coverage": "Audit",
