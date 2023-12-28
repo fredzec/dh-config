@@ -1,5 +1,14 @@
 [  
     {
+    "name": "DeepBrain Chain",
+    "projectLogo": "https://s2.loli.net/2023/12/29/UBCv2eHyupGLJTo.jpg",
+    "coverage": "Audit",
+    "type": "ERC-20",
+    "platform": "https://s2.loli.net/2023/12/29/v6kPpwCr1yLGQ34.png",
+    "stages": "Finished",
+    "auditFileName": "DeepBrain Chain.pdf"
+   },
+    {
     "name": "Winkyverse",
     "projectLogo": "https://s2.loli.net/2023/12/25/SrIN6uXHKJps1EO.jpg",
     "coverage": "Audit",
