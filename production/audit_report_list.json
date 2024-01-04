@@ -1,5 +1,14 @@
 [  
     {
+    "name": "ecoterra",
+    "projectLogo": "https://s2.loli.net/2024/01/04/GA472BNQvKthW3o.jpg",
+    "coverage": "Audit",
+    "type": "ERC-20",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
+    "stages": "Finished",
+    "auditFileName": "ecoterra.pdf"
+   },
+    {
     "name": "DeepBrain Chain",
     "projectLogo": "https://s2.loli.net/2023/12/29/UBCv2eHyupGLJTo.jpg",
     "coverage": "Audit",
