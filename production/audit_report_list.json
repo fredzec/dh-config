@@ -1,5 +1,14 @@
 [  
     {
+    "name": "Metars Genesis",
+    "projectLogo": "https://s2.loli.net/2024/01/09/2GOm6xfw3dThgKo.jpg",
+    "coverage": "Audit",
+    "type": "ERC-20",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
+    "stages": "Finished",
+    "auditFileName": "Metars Genesis.pdf"
+   },
+    {
     "name": "ecoterra",
     "projectLogo": "https://s2.loli.net/2024/01/04/GA472BNQvKthW3o.jpg",
     "coverage": "Audit",
