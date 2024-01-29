@@ -1,5 +1,14 @@
 [  
     {
+    "name": "bloXmove",
+    "projectLogo": "https://s2.loli.net/2024/01/23/7JVRlA8OxoQNjgq.jpg",
+    "coverage": "Audit",
+    "type": "DeFi",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
+    "stages": "Finished",
+    "auditFileName": "bloXmove.pdf"
+   },
+    {
     "name": "AIRTNT",
     "projectLogo": "https://s2.loli.net/2024/01/23/7JVRlA8OxoQNjgq.jpg",
     "coverage": "Audit",
