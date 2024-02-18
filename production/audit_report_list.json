@@ -9,13 +9,13 @@
     "auditFileName": "HiveSwap.pdf"
    },
     {
-    "name": "ButterNetwork",
+    "name": "ButterSwap",
     "projectLogo": "https://s2.loli.net/2024/02/18/ntIB6y9ZWb7oAke.jpg",
     "coverage": "Audit",
     "type": "Dex",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "ButterNetwork.pdf"
+    "auditFileName": "ButterSwap.pdf"
    },
     {
     "name": "Onnano",
