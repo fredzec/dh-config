@@ -1,5 +1,14 @@
 [  
     {
+    "name": "HiveSwap",
+    "projectLogo": "https://s2.loli.net/2024/02/18/QOUzaDJAjlq9KmW.jpg",
+    "coverage": "Audit",
+    "type": "DeFi",
+    "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1024px-Bitcoin.svg.png",
+    "stages": "Finished",
+    "auditFileName": "HiveSwap.pdf"
+   },
+    {
     "name": "ButterNetwork",
     "projectLogo": "https://s2.loli.net/2024/02/18/ntIB6y9ZWb7oAke.jpg",
     "coverage": "Audit",
