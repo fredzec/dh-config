@@ -1,13 +1,4 @@
-[  
-{
-    "name": "Apecoin",
-    "projectLogo": "https://twitter.com/apecoin/photo",
-    "coverage": "Audit",
-    "type": "ERC-20",
-    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
-    "stages": "Finished",
-    "auditFileName": "Apecoin.pdf"
-   },  
+[   
 {
     "name": "Alium Collectible",
     "projectLogo": "https://pbs.twimg.com/profile_images/1618572495291912194/Twd_dkOF_400x400.jpg",
