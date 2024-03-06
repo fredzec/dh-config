@@ -1,5 +1,13 @@
 [   
 {
+    "name": "ThunderCore",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1673875589315559424/bv2KDMir_400x400.jpg",
+    "coverage": "Audit",
+    "type": "DeFi",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
+    "stages": "Finished",
+    "auditFileName": "ThunderCore.pdf"
+    {
     "name": "Alium Collectible",
     "projectLogo": "https://pbs.twimg.com/profile_images/1618572495291912194/Twd_dkOF_400x400.jpg",
     "coverage": "Audit",
