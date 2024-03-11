@@ -6,7 +6,7 @@
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
     "auditFileName": "CoinFLEX.pdf"
-   },  
+   },
     "name": "Ethbox",
     "projectLogo": "https://www.ebox.io/img/ebox-logo.svg",
     "coverage": "Audit",
