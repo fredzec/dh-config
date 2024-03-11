@@ -1,5 +1,14 @@
-[   
-"name": "Ethbox",
+[  
+{
+    "name": "CoinFLEX",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1457916984486928384/Tn_SZN8u_400x400.jpg",
+    "coverage": "Audit",
+    "type": "DeFi",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
+    "stages": "Finished",
+    "auditFileName": "CoinFLEX.pdf"
+   },  
+    "name": "Ethbox",
     "projectLogo": "https://www.ebox.io/img/ebox-logo.svg",
     "coverage": "Audit",
     "type": "DeFi",
