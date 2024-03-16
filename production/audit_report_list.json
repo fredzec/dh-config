@@ -1,4 +1,13 @@
 [  
+     {
+    "name": "Map Protocol Token",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1648581536323891201/-C_EgB6o_400x400.jpg",
+    "coverage": "Audit",
+    "type": "Infrastructure",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
+    "stages": "Finished",
+    "auditFileName": "Map Protocol Token.pdf"
+   },
     {
     "name": "CoinFLEX",
     "projectLogo": "https://pbs.twimg.com/profile_images/1457916984486928384/Tn_SZN8u_400x400.jpg",
