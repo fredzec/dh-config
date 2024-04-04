@@ -1,5 +1,14 @@
 [  
  {
+    "name": "MAPOmnichain Mos",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1597090686825730049/pmw3ioiY_400x400.jpg",
+    "coverage": "Audit",
+    "type": "DeFi",
+    "platform": "https://pbs.twimg.com/profile_images/1648581536323891201/-C_EgB6o_400x400.jpg",
+    "stages": "Finished",
+    "auditFileName": "MAPOmnichain Mos.pdf"
+   },
+ {
     "name": "SafePal",
     "projectLogo": "https://pbs.twimg.com/profile_images/1676254262505123840/NhRRmBnl_400x400.png",
     "coverage": "Audit",
