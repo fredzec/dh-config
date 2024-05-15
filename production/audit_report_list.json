@@ -1,12 +1,12 @@
 [ 
     {
-    "name": "Hiveswap Token",
+    "name": "Hiveswap HIVP Token",
     "projectLogo": "https://pbs.twimg.com/profile_images/1739171953133645824/u9ZSQUX9_400x400.jpg",
     "coverage": "Audit",
     "type": "Dex",
     "platform": "https://pbs.twimg.com/profile_images/1648581536323891201/-C_EgB6o_400x400.jpg",
     "stages": "Finished",
-    "auditFileName": "Hiveswap Token.pdf"
+    "auditFileName": "Hiveswap HIVP Token.pdf"
    },
     {
     "name": "Gala",
