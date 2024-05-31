@@ -1,5 +1,14 @@
 [ 
     {
+    "name": "Solar Dex",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1742520753377996800/K-1VUdaW_400x400.jpg",
+    "coverage": "Audit",
+    "type": "Dex",
+    "platform": "https://pbs.twimg.com/profile_images/1605605053901021184/9LNylZAA_400x400.png",
+    "stages": "Finished",
+    "auditFileName": "Solar Dex.pdf"
+    },
+    {
     "name": "Hiveswap HIVP Token",
     "projectLogo": "https://pbs.twimg.com/profile_images/1739171953133645824/u9ZSQUX9_400x400.jpg",
     "coverage": "Audit",
