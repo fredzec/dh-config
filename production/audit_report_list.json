@@ -1,5 +1,23 @@
 [ 
     {
+    "name": "Cipher",
+    "projectLogo": "https://pbs.twimg.com/profile_images/986921773399773184/mxA9KTYS_400x400.jpg",
+    "coverage": "Audit",
+    "type": "DeFi",
+    "platform": "https://pbs.twimg.com/profile_images/1781425963265327104/TB5fMI9O_400x400.jpg",
+    "stages": "Finished",
+    "auditFileName": "Cipher.pdf"
+    },
+    {
+    "name": "Hello Pets",
+    "projectLogo": "https://www.hellopets.world/images/home_header_logo.png",
+    "coverage": "Audit",
+    "type": "Dex",
+    "platform": "https://pbs.twimg.com/profile_images/421692600446619648/dWAbC2wg_400x400.jpeg",
+    "stages": "Finished",
+    "auditFileName": "HelloPets.pdf"
+    },
+    {
     "name": "Solar Dex",
     "projectLogo": "https://pbs.twimg.com/profile_images/1742520753377996800/K-1VUdaW_400x400.jpg",
     "coverage": "Audit",
