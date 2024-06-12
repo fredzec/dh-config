@@ -1,5 +1,14 @@
 [ 
     {
+    "name": "LTO Network",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1762461284967264256/RiYpfJaE_400x400.jpg",
+    "coverage": "Audit",
+    "type": "DeFi",
+    "platform": "https://pbs.twimg.com/profile_images/1744289390736613378/alcfxov3_400x400.jpg",
+    "stages": "Finished",
+    "auditFileName": "LTO.pdf"
+    },
+    {
     "name": "Exverse",
     "projectLogo": "https://pbs.twimg.com/profile_images/1739647617288814592/TNhANL0__400x400.png",
     "coverage": "Audit",
