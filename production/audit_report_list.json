@@ -1,5 +1,14 @@
 [ 
     {
+    "name": "Winee3",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1788647985191981058/JItBzm-d_400x400.jpg",
+    "coverage": "Audit",
+    "type": "SoFi",
+    "platform": "https://pbs.twimg.com/profile_images/1627642622645878784/TP1GH9TM_400x400.jpg",
+    "stages": "Finished",
+    "auditFileName": "Winee3.pdf"
+    },
+    {
     "name": "LTO Network",
     "projectLogo": "https://pbs.twimg.com/profile_images/1762461284967264256/RiYpfJaE_400x400.jpg",
     "coverage": "Audit",
