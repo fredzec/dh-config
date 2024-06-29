@@ -1,5 +1,14 @@
 [ 
     {
+    "name": "Brc Life",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1715012436494077952/SGEdWo8q_400x400.jpg",
+    "coverage": "Audit",
+    "type": "SoFi",
+    "platform": "https://pbs.twimg.com/profile_images/1744289390736613378/alcfxov3_400x400.jpg",
+    "stages": "Finished",
+    "auditFileName": "Brc Life.pdf"
+    },
+    {
     "name": "Winee3",
     "projectLogo": "https://pbs.twimg.com/profile_images/1788647985191981058/JItBzm-d_400x400.jpg",
     "coverage": "Audit",
