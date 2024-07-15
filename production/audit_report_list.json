@@ -1,5 +1,14 @@
 [ 
     {
+    "name": "The Sandbox",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1675843993190506496/HeGzewKw_400x400.jpg",
+    "coverage": "Audit",
+    "type": "GameFi",
+    "platform": "https://pbs.twimg.com/profile_images/1627642622645878784/TP1GH9TM_400x400.jpg",
+    "stages": "Finished",
+    "auditFileName": "The Sandbox.pdf"
+    },
+    {
     "name": "Sorta Finance",
     "projectLogo": "https://pbs.twimg.com/profile_images/1811583630948597762/9Tv-6VXb_400x400.png",
     "coverage": "Audit",
