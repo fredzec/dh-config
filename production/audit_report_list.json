@@ -1,5 +1,14 @@
 [ 
     {
+    "name": "The Epiko",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1737028930157117440/i2r7rIEV_400x400.png",
+    "coverage": "Audit",
+    "type": "GameFi",
+    "platform": "https://pbs.twimg.com/profile_images/1627642622645878784/TP1GH9TM_400x400.jpg",
+    "stages": "Finished",
+    "auditFileName": "The Epiko.pdf"
+    },
+    {
     "name": "The Sandbox",
     "projectLogo": "https://pbs.twimg.com/profile_images/1675843993190506496/HeGzewKw_400x400.jpg",
     "coverage": "Audit",
