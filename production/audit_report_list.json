@@ -1,6 +1,6 @@
 [
     {
-    "name": "Butter Network",
+    "name": "Butter Network MAP",
     "projectLogo": "https://pbs.twimg.com/profile_images/1796442018962669568/uYoVJ6xC_400x400.jpg",
     "coverage": "Audit",
     "type": "Bridge",
@@ -9,7 +9,7 @@
     "auditFileName": "Butter Network.pdf"
     },
     {
-    "name": "Butter Network",
+    "name": "Butter Network TON",
     "projectLogo": "https://pbs.twimg.com/profile_images/1796442018962669568/uYoVJ6xC_400x400.jpg",
     "coverage": "Audit",
     "type": "Bridge",
