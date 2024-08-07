@@ -87,7 +87,7 @@
     "type": "SoFi",
     "platform": "https://pbs.twimg.com/profile_images/1744289390736613378/alcfxov3_400x400.jpg",
     "stages": "Finished",
-    "auditFileName": "Brc Life.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Brc%20Life.pdf"
     },
     {
     "name": "Winee3",
@@ -96,7 +96,7 @@
     "type": "SoFi",
     "platform": "https://pbs.twimg.com/profile_images/1627642622645878784/TP1GH9TM_400x400.jpg",
     "stages": "Finished",
-    "auditFileName": "Winee3.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Winee3.pdf"
     },
     {
     "name": "LTO Network",
@@ -105,7 +105,7 @@
     "type": "DeFi",
     "platform": "https://pbs.twimg.com/profile_images/1744289390736613378/alcfxov3_400x400.jpg",
     "stages": "Finished",
-    "auditFileName": "LTO.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/LTO.pdf"
     },
     {
     "name": "Exverse",
@@ -114,7 +114,7 @@
     "type": "GameFi",
     "platform": "https://pbs.twimg.com/profile_images/1744289390736613378/alcfxov3_400x400.jpg",
     "stages": "Finished",
-    "auditFileName": "Exverse.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Exverse.pdf"
     },
     {
     "name": "Cipher",
@@ -123,7 +123,7 @@
     "type": "DeFi",
     "platform": "https://pbs.twimg.com/profile_images/1781425963265327104/TB5fMI9O_400x400.jpg",
     "stages": "Finished",
-    "auditFileName": "Cipher.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Cipher.pdf"
     },
     {
     "name": "Hello Pets",
@@ -132,7 +132,7 @@
     "type": "Dex",
     "platform": "https://pbs.twimg.com/profile_images/421692600446619648/dWAbC2wg_400x400.jpeg",
     "stages": "Finished",
-    "auditFileName": "HelloPets.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/HelloPets.pdf"
     },
     {
     "name": "Solar Dex",
@@ -141,7 +141,7 @@
     "type": "Dex",
     "platform": "https://pbs.twimg.com/profile_images/1605605053901021184/9LNylZAA_400x400.png",
     "stages": "Finished",
-    "auditFileName": "Solar Dex.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Solar%20Dex.pdf"
     },
     {
     "name": "Hiveswap HIVP Token",
@@ -150,7 +150,7 @@
     "type": "Dex",
     "platform": "https://pbs.twimg.com/profile_images/1648581536323891201/-C_EgB6o_400x400.jpg",
     "stages": "Finished",
-    "auditFileName": "Hiveswap HIVP Token.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Hiveswap%20HIVP%20Token.pdf"
     },
     {
     "name": "Gala",
@@ -159,7 +159,7 @@
     "type": "Governance",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "Gala.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Gala.pdf"
    },
 {
     "name": "1inch Exchange",
@@ -177,7 +177,7 @@
     "type": "DeFi",
     "platform": "https://pbs.twimg.com/profile_images/1648581536323891201/-C_EgB6o_400x400.jpg",
     "stages": "Finished",
-    "auditFileName": "MAPOmnichain Mos.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Map%20Protocol%20Token.pdf"
    },
  {
     "name": "SafePal",
@@ -186,7 +186,7 @@
     "type": "DeFi",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "SafePal.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/SafePal.pdf"
    },
      {
     "name": "Map Protocol Token",
@@ -195,7 +195,7 @@
     "type": "Infrastructure",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "Map Protocol Token.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Map%20Protocol%20Token.pdf"
    },
     {
     "name": "CoinFLEX",
@@ -204,7 +204,7 @@
     "type": "DeFi",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "CoinFLEX.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/CoinFLEX.pdf"
    },
     {
     "name": "Ethbox",
@@ -213,7 +213,7 @@
     "type": "DeFi",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "Ethbox.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Ethbox.pdf"
    },
     {
     "name": "ThunderCore",
@@ -222,7 +222,7 @@
     "type": "DeFi",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "ThunderCore.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/ThunderCore.pdf"
    },  
     {
     "name": "Alium Collectible",
@@ -231,7 +231,7 @@
     "type": "DeFi",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "Alium Collectible.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Alium%20Collectible.pdf"
    },    
     {
     "name": "HiveSwap",
