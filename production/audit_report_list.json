@@ -168,7 +168,7 @@
     "type": "DeFi",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "https://raw.githubusercontent.com/DeHacker-io/audits_public/main/1inch%20Exchange.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/1inch%20Exchange.pdf"
    },
  {
     "name": "MAPOmnichain Mos",
