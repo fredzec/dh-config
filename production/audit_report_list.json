@@ -240,7 +240,7 @@
     "type": "DeFi",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1024px-Bitcoin.svg.png",
     "stages": "Finished",
-    "auditFileName": "HiveSwap.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/HiveSwap.pdf"
    },
     {
     "name": "ButterSwap",
@@ -249,7 +249,7 @@
     "type": "Dex",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "ButterSwap.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/ButterSwap.pdf"
    },
     {
     "name": "Onnano",
@@ -258,7 +258,7 @@
     "type": "Token",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "Onnano.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Onnano.pdf"
    },
     {
     "name": "Pomerium",
@@ -267,7 +267,7 @@
     "type": "GameFi",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "Pomerium.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Pomerium.pdf"
    },
     {
     "name": "bloXmove",
@@ -276,7 +276,7 @@
     "type": "DeFi",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "bloXmove.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/bloXmove.pdf"
    },
     {
     "name": "AIRTNT",
@@ -285,7 +285,7 @@
     "type": "NFT",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/polygon.jpg",
     "stages": "Finished",
-    "auditFileName": "AIRTNT - Audit.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/AIRTNT%20-%20Audit.pdf"
    }, 
     {
     "name": "MEMEVENGERS",
@@ -312,7 +312,7 @@
     "type": "ERC-20",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "Metars Genesis.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Metars%20Genesis.pdf"
    },
     {
     "name": "ecoterra",
@@ -321,7 +321,7 @@
     "type": "ERC-20",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "ecoterra.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/ecoterra.pdf"
    },
     {
     "name": "DeepBrain Chain",
@@ -330,7 +330,7 @@
     "type": "ERC-20",
     "platform": "https://s2.loli.net/2023/12/29/v6kPpwCr1yLGQ34.png",
     "stages": "Finished",
-    "auditFileName": "DeepBrain Chain.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/DeepBrain%20Chain.pdf"
    },
     {
     "name": "Winkyverse",
@@ -339,7 +339,7 @@
     "type": "NFT",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "Winkyverse.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Winkyverse.pdf"
    },
     {
     "name": "Bad Idea AI",
@@ -348,7 +348,7 @@
     "type": "AI",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "Bad Idea AI.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Bad%20Idea%20AI.pdf"
    },
     {
     "name": "Rune.Game",
@@ -357,7 +357,7 @@
     "type": "GameFi",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "Rune.Game.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Rune.Game.pdf"
    },
     {
     "name": "RENQ FINANCE",
@@ -375,7 +375,7 @@
     "type": "DeFi",
     "platform": "https://substrate.io/img/substrate_og.png",
     "stages": "Finished",
-    "auditFileName": "Bifrost.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Bifrost.pdf"
    },
     {
     "name": "TRVL",
@@ -384,7 +384,7 @@
     "type": "ERC-20",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "TRVL.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/TRVL.pdf"
    },
     {
     "name": "Skyplay",
@@ -393,7 +393,7 @@
     "type": "Others",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/polygon.jpg",
     "stages": "Finished",
-    "auditFileName": "SKYPlay.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/SKYPlay.pdf"
    },
     {
     "name": "LOVELY Inu",
@@ -402,7 +402,7 @@
     "type": "MEME",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "LOVELY Inu.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/LOVELY%20Inu.pdf"
    },    
     {
     "name": "EqiToken",
@@ -411,7 +411,7 @@
     "type": "DeFi",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "EqiToken.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/EqiToken.pdf"
    },
     {
     "name": "Zam.io",
@@ -420,7 +420,7 @@
     "type": "DeFi",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "Zam.io.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Zam.io.pdf"
    },
     {
     "name": "Liquidus Finance",
@@ -429,7 +429,7 @@
     "type": "DeFi",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "Liquidus Finance.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Liquidus%20Finance.pdf"
    },
     {
     "name": "Taboo",
@@ -438,7 +438,7 @@
     "type": "ERC-20",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "Taboo.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Taboo.pdf"
    },
     {
     "name": "Kiwigo",
@@ -447,7 +447,7 @@
     "type": "DeFi",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "Kiwigo.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Kiwigo.pdf"
    },
     {
     "name": "BENFT",
@@ -456,7 +456,7 @@
     "type": "NFT",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "BENFT.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/BENFT.pdf"
    },
     {
     "name": "Seascape",
@@ -465,7 +465,7 @@
     "type": "DeFi",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "Seascape.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Seascape.pdf"
    },
     {
     "name": "Guild Token",
@@ -474,7 +474,7 @@
     "type": "NFT",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "Guild Token.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Guild%20Token.pdf"
    }, 
     {
     "name": "KATANA INU",
@@ -483,7 +483,7 @@
     "type": "NFT",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "KATANA INU.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/KATANA%20INU.pdf"
    }, 
     {
     "name": "Gptguru",
@@ -492,7 +492,7 @@
     "type": "Defi",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "Gptguru.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Gptguru.pdf"
    }, 
     {
     "name": "C-patex",
@@ -501,7 +501,7 @@
     "type": "Defi",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "C-patex.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/C-patex.pdf"
    }, 
     {
     "name": "JusticeDAO",
@@ -510,7 +510,7 @@
     "type": "Defi",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "JusticeDAO.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/JusticeDAO.pdf"
    }, 
     {
     "name": "CeluvPlay",
@@ -519,7 +519,7 @@
     "type": "Infrastructure",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/polygon.jpg",
     "stages": "Finished",
-    "auditFileName": "CeluvPlay.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/CeluvPlay.pdf"
    }, 
     {
     "name": "MixMarvel",
@@ -528,7 +528,7 @@
     "type": "Gamefi",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "MixMarvel.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/MixMarvel.pdf"
    }, 
     {
     "name": "Self Crypto",
@@ -537,7 +537,7 @@
     "type": "DeFi",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "Self Crypto.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Self%20Crypto.pdf"
    }, 
     {
     "name": "Iskra",
@@ -546,7 +546,7 @@
     "type": "NFT",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "Iskra.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Iskra.pdf"
    }, 
     {
     "name": "Kissantoken",
@@ -555,7 +555,7 @@
     "type": "Others",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "Kissantoken.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Kissantoken.pdf"
    }, 
     {
     "name": "Fwc Token",
@@ -564,7 +564,7 @@
     "type": "Defi",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "fwc token.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/fwc%20token.pdf"
    }, 
     {
     "name": "GoMining",
@@ -573,7 +573,7 @@
     "type": "DeFi",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "GoMining.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/GoMining.pdf"
    }, 
     {
     "name": "LABEL",
@@ -582,7 +582,7 @@
     "type": "DeFi",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "LABEL.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/LABEL.pdf"
    }, 
       {
     "name": "Friend3 Group",
@@ -591,7 +591,7 @@
     "type": "SocialFi",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "Friend3.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Friend3.pdf"
    }, 
     {
     "name": "Hillstone Finance",
@@ -600,7 +600,7 @@
     "type": "DeFi",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "Hillstone Finance.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Hillstone%20Finance.pdf"
    }, 
     {
     "name": "Beyond Protocol",
@@ -609,7 +609,7 @@
     "type": "DeFi",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "Beyond Protocol.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Beyond%20Protocol.pdf"
    }, 
     {
     "name": "Oggy Inu",
@@ -618,7 +618,7 @@
     "type": "Others",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "Oggy Inu.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Oggy%20Inu.pdf"
    }, 
     {
     "name": "Meld",
@@ -627,7 +627,7 @@
     "type": "Defi",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "Meld.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Meld.pdf"
    },  
     {
     "name": "Polkamarkets",
@@ -636,7 +636,7 @@
     "type": "Defi",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "Polkamarkets.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Polkamarkets.pdf"
    }, 
     {
     "name": "Kishu Inu",
@@ -645,7 +645,7 @@
     "type": "Meme",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "Kishu Inu.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Kishu%20Inu.pdf"
    },  
     {
     "name": "CEEK",
@@ -654,7 +654,7 @@
     "type": "NFT",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "CEEK.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/CEEK.pdf"
    }, 
     {
     "name": "Decentraland",
@@ -663,7 +663,7 @@
     "type": "NFT",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "Decentraland.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Decentraland.pdf"
    }, 
    {
     "name": "Artyfact",
@@ -672,7 +672,7 @@
     "type": "Defi",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "Artyfact.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Artyfact.pdf"
    }, 
    {
     "name": "MILC",
