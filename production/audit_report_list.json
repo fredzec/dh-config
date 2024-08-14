@@ -690,7 +690,7 @@
     "type": "Meme",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "MILC.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/MILC.pdf"
    },    
     {
     "name": "DAO Maker",
@@ -699,7 +699,7 @@
     "type": "Defi",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "DAO Maker.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/DAO%20Maker.pdf"
    },
     {
     "name": "Fabwelt Token",
@@ -708,7 +708,7 @@
     "type": "Dex",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/polygon.jpg",
     "stages": "Finished",
-    "auditFileName": "Fabwelt Token.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Fabwelt%20Token.pdf"
    },
     {
     "name": "Vita Inu",
@@ -717,7 +717,7 @@
     "type": "meme",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "Vita Inu.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Vita%20Inu.pdf"
    },
     {
     "name": "Vulcan Forged",
@@ -726,7 +726,7 @@
     "type": "Gamefi",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "Vulcan Forged.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Vulcan%20Forged.pdf"
    },
     {
     "name": "DODO DEX",
@@ -735,7 +735,7 @@
     "type": "DeFi",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "DODO DEX.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/DODO%20DEX.pdf"
    },
     {
     "name": "FortKnoxster",
@@ -744,7 +744,7 @@
     "type": "DeFi",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "FortKnoxster DieFi.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/FortKnoxster%20DieFi.pdf"
    },
     {
     "name": "ZKSpace",
@@ -753,7 +753,7 @@
     "type": "Dex",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "ZKSpace.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/ZKSpace.pdf"
    },
    {
     "name": "Venus",
@@ -762,7 +762,7 @@
     "type": "DeFi",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "Venus.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Venus.pdf"
    },
    {
     "name": "Bitcoin.com",
@@ -771,7 +771,7 @@
     "type": "DeFi",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "Bitcoin.com.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Bitcoin.com.pdf"
    },
    {
     "name": "ApeCoin",
@@ -780,7 +780,7 @@
     "type": "ERC-20",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "ApeCoin.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/ApeCoin.pdf"
   },   
    {
     "name": "Shentu",
@@ -789,7 +789,7 @@
     "type": "DeFi",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "Shentu.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Shentu.pdf"
   },
    {
     "name": "Morpheus",
@@ -798,7 +798,7 @@
     "type": "Others",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "Morpheus.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Morpheus.pdf"
   },
      {
     "name": "Everdome",
@@ -807,7 +807,7 @@
     "type": "Gaming",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "Everdome.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/ZERONE.pdf"
   },
      {
     "name": "SxpSwap",
@@ -816,7 +816,7 @@
     "type": "DeFi",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "SxpSwap.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/SxpSwap.pdf"
   },
      {
     "name": "Voxel",
@@ -825,7 +825,7 @@
     "type": "Gaming",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/polygon.jpg",
     "stages": "Finished",
-    "auditFileName": "Voxel.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Voxel.pdf"
   },
      {
     "name": "LIFE",
@@ -834,7 +834,7 @@
     "type": "DeFi",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "LIFE.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/LIFE.pdf"
   },
      {
     "name": "DMTR",
@@ -843,7 +843,7 @@
     "type": "Token",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "DMTR.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/DMTR.pdf"
   },
      {
     "name": "Singularity",
@@ -852,7 +852,7 @@
     "type": "DAO",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "Singularity.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Singularity.pdf"
   },
      {
     "name": "Opulous",
@@ -861,7 +861,7 @@
     "type": "Staking",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/Algorand.jpg",
     "stages": "Finished",
-    "auditFileName": "Opulous.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/MetaBeat.pdf"
   },
      {
     "name": "MetaBeat",
@@ -870,7 +870,7 @@
     "type": "DeFi",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/polygon.jpg",
     "stages": "Finished",
-    "auditFileName": "MetaBeat.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/MetaBeat.pdf"
   },
 
 
@@ -886,7 +886,7 @@
     "type": "Token",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "TALKI.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/TALKI.pdf"
   },
      {
     "name": "ZERONE",
@@ -895,7 +895,7 @@
     "type": "Dex",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/arbitrum.jpg",
     "stages": "Finished",
-    "auditFileName": "ZERONE.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/ZERONE.pdf"
   },
     
     {
@@ -905,7 +905,7 @@
     "type": "Dex",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/fvm.jpg",
     "stages": "Finished",
-    "auditFileName": "Themis.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Themis.pdf"
   },
    {
     "name": "Swash",
@@ -914,7 +914,7 @@
     "type": "Others",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "Swash.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Swash.pdf"
   },
  {
     "name": "Marlin",
@@ -923,7 +923,7 @@
     "type": "Token",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "Marlin.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Marlin.pdf"
   },
     {
     "name": "Oraichain",
@@ -932,7 +932,7 @@
     "type": "Token",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "Oraichain.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Oraichain.pdf"
   },
     {
     "name": "OpenFi",
@@ -941,7 +941,7 @@
     "type": "Dex",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/arbitrum.jpg",
     "stages": "Finished",
-    "auditFileName": "OpenFi.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/OpenFi.pdf"
   },
   {
     "name": "Paraswap",
@@ -950,7 +950,7 @@
     "type": "Dex",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "Paraswap.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Paraswap.pdf"
   },
     
     {
@@ -970,7 +970,7 @@
     "type": "Others",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "ANKR Token.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Immutable%20X.pdf"
   },
     
       {
@@ -980,7 +980,7 @@
     "type": "GameFi",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "UniCrypt.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/UniCrypt.pdf"
   },
 
     
@@ -991,7 +991,7 @@
     "type": "GameFi",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "Llluvium.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Illuvium.pdf"
   },
     
     {
@@ -1001,7 +1001,7 @@
     "type": "Others",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "Rubic Finance.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Rubic%20Finance.pdf"
    },
     
     {
@@ -1011,7 +1011,7 @@
     "type": "Others",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "Kunci Coin.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Kunci%20Coin.pdf"
    },
     
     
@@ -1022,7 +1022,7 @@
     "type": "Others",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "Oraichain.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Oraichain.pdf"
    },
     
     {
@@ -1032,7 +1032,7 @@
     "type": "Token",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "ANKR Token.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/ANKR%20Token.pdf"
    },
     
     {
@@ -1042,7 +1042,7 @@
     "type": "DeFi",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "SXP.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/SXP.pdf"
    },
     
     {
@@ -1052,7 +1052,7 @@
     "type": "Others",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "Balancer.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Balancer.pdf"
    },
     
     {
@@ -1062,7 +1062,7 @@
     "type": "Others",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "Axelar Network.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Axelar%20Network.pdf"
    },
     
     {
@@ -1072,7 +1072,7 @@
     "type": "Token",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "TWT Token.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/TWT%20Token.pdf"
    },
     
    
@@ -1085,7 +1085,7 @@
     "type": "SocialFi",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/arbitrum.jpg",
     "stages": "Finished",
-    "auditFileName": "Project Chosen.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Project%20Chosen.pdf"
   },
    {
     "name": "DRIVE2",
@@ -1094,7 +1094,7 @@
     "type": "GameFi",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "DRIVE2.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/DRIVE2.pdf"
   },
    {
     "name": "TARS Protocol",
@@ -1103,7 +1103,7 @@
     "type": "Infrastructure",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/arbitrum.jpg",
     "stages": "Finished",
-    "auditFileName": "TARSProtocol.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/TARSProtocol.pdf"
   },
    {
     "name": "Scorefam",
@@ -1112,7 +1112,7 @@
     "type": "GameFi",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "Scorefam.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Scorefam.pdf"
   },
  
      {
@@ -1122,7 +1122,7 @@
     "type": "DeFi",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "Trustfi.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Trustfi.pdf"
   },
     
   {
@@ -1132,7 +1132,7 @@
     "type": "GameFi",
     "platform": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Binance_Logo.png/1200px-Binance_Logo.png?20201023063027",
     "stages": "Finished",
-    "auditFileName": "CheersLand.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/CheersLand.pdf"
   },
 
      {
@@ -1142,7 +1142,7 @@
     "type": "Others",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
-    "auditFileName": "API3.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/API3.pdf"
   },
 
    {
@@ -1152,7 +1152,7 @@
     "type": "X2Earn",
     "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/zksync.jpg",
     "stages": "Finished",
-    "auditFileName": "VideoFi.pdf"
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/VideoFi.pdf"
   }
 
      
