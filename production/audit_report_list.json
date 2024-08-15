@@ -1,5 +1,14 @@
 [
     {
+    "name": "Smurf Cat",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1801298292745322497/6Vqo5_Vr_400x400.jpg",
+    "coverage": "Audit",
+    "type": "Token",
+    "platform": "https://pbs.twimg.com/profile_images/1627642622645878784/TP1GH9TM_400x400.jpg",
+    "stages": "Finished",
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Smurf%20Cat.pdf"
+    },
+    {
     "name": "MPAA",
     "projectLogo": "https://pbs.twimg.com/profile_images/1813220180555886592/mAhj1bpw_400x400.jpg",
     "coverage": "Audit",
