@@ -1,5 +1,14 @@
 [
     {
+    "name": "pTON",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1642745195413536769/_5aLI5-6_400x400.jpg",
+    "coverage": "Audit",
+    "type": "DeFi",
+    "platform": "https://pbs.twimg.com/profile_images/1758437914898292736/PFNZIPNB_400x400.jpg",
+    "stages": "Finished",
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/pTON.pdf"
+    },
+    {
     "name": "Smurf Cat",
     "projectLogo": "https://pbs.twimg.com/profile_images/1801298292745322497/6Vqo5_Vr_400x400.jpg",
     "coverage": "Audit",
