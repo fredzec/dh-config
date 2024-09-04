@@ -1,5 +1,14 @@
 [
     {
+    "name": "Gamee",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1407997203076034562/QZieLg62_400x400.jpg",
+    "coverage": "Audit",
+    "type": "GameFi",
+    "platform": "https://pbs.twimg.com/profile_images/1627642622645878784/TP1GH9TM_400x400.jpg",
+    "stages": "Finished",
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Gamee.pdf"
+    },
+    {
     "name": "Megaton Finance",
     "projectLogo": "https://pbs.twimg.com/profile_images/1599673136601268226/kTSyK0kD_400x400.jpg",
     "coverage": "Audit",
