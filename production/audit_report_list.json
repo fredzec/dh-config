@@ -1,5 +1,14 @@
 [
     {
+    "name": "Sonet",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1631461152495468544/r1UrofCf_400x400.jpg",
+    "coverage": "Audit",
+    "type": "Token",
+    "platform": "https://pbs.twimg.com/profile_images/1627642622645878784/TP1GH9TM_400x400.jpg",
+    "stages": "Finished",
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Sonet.pdf"
+    },
+    {
     "name": "Gamee",
     "projectLogo": "https://pbs.twimg.com/profile_images/1407997203076034562/QZieLg62_400x400.jpg",
     "coverage": "Audit",
