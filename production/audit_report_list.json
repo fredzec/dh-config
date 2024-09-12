@@ -1,5 +1,14 @@
 [
     {
+    "name": "Cindex",
+    "projectLogo": "https://github.com/DeHacker-io/audits_public/blob/main/Cindex.pdf",
+    "coverage": "Audit",
+    "type": "DeFi",
+    "platform": "https://bafybeifcgow7c6bz3bvkwcpwenrfswqsnn24stxkuelbongtopebhne7om.ipfs.w3s.link/TON.png",
+    "stages": "Finished",
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Cindex.pdf"
+    },
+    {
     "name": "Sonet",
     "projectLogo": "https://pbs.twimg.com/profile_images/1631461152495468544/r1UrofCf_400x400.jpg",
     "coverage": "Audit",
