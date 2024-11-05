@@ -1,4 +1,13 @@
 [
+     {
+    "name": "NAWS.AI",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1742815323693494272/yTvxenBw_400x400.jpg",
+    "coverage": "Audit",
+    "type": "DePin",
+    "platform": "https://pbs.twimg.com/profile_images/1744289390736613378/alcfxov3_400x400.jpg",
+    "stages": "Finished",
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/NAWS.AI.pdf"
+    },
     {
     "name": "CARV",
     "projectLogo": "https://pbs.twimg.com/profile_images/1768637390636064768/pt84egVz_400x400.jpg",
