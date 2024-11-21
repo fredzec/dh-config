@@ -1,5 +1,14 @@
 [
     {
+    "name": "MAP Protocol Swap",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1826106116104925186/-bCl3Bqx_400x400.jpg",
+    "coverage": "Audit",
+    "type": "Bridge",
+    "platform": "https://pbs.twimg.com/profile_images/1826106116104925186/-bCl3Bqx_400x400.jpg",
+    "stages": "Finished",
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/MAP%20PROTOCOL%20SWAP.pdf"
+    },
+    {
     "name": "Funton.AI",
     "projectLogo": "https://www.funton.ai/images/media-kit/funton-icon.png",
     "coverage": "Audit",
