@@ -1,5 +1,14 @@
 [
     {
+    "name": "Zebec",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1773695810464841728/JJV-0p2A_400x400.jpg",
+    "coverage": "Audit",
+    "type": "DeFi",
+    "platform": "https://pbs.twimg.com/profile_images/1472933274209107976/6u-LQfjG_400x400.jpg",
+    "stages": "Finished",
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Zebec.pdf"
+    },
+    {
     "name": "Hooked Protocol",
     "projectLogo": "https://pbs.twimg.com/profile_images/1886744136067506178/4LIZlKeh_400x400.jpg",
     "coverage": "Audit",
