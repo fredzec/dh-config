@@ -1,5 +1,14 @@
 [
     {
+    "name": "Numine",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1774688746845466624/PWIWP-_u_400x400.png",
+    "coverage": "Audit",
+    "type": "DeFi",
+    "platform": "https://pbs.twimg.com/profile_images/1878738447067652096/tXQbWfpf_400x400.jpg",
+    "stages": "Finished",
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Numine.pdf"
+    },
+    {
     "name": "Zebec",
     "projectLogo": "https://pbs.twimg.com/profile_images/1773695810464841728/JJV-0p2A_400x400.jpg",
     "coverage": "Audit",
