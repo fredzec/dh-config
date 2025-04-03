@@ -1,5 +1,14 @@
 [
     {
+    "name": "Vaulta",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1907452859806826497/fXOmvCKM_400x400.jpg",
+    "coverage": "Audit",
+    "type": "DeFi",
+    "platform": "https://pbs.twimg.com/profile_images/1876286110071975936/HvkhyFZg_400x400.jpg",
+    "stages": "Finished",
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/EOS.pdf"
+    },
+    {
     "name": "Numine",
     "projectLogo": "https://pbs.twimg.com/profile_images/1774688746845466624/PWIWP-_u_400x400.png",
     "coverage": "Audit",
