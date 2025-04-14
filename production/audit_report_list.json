@@ -1,4 +1,12 @@
 [
+    {"name": "LifeBank Chain",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1903709168793698304/fYkbEc_M_400x400.jpg",
+    "coverage": "Audit",
+    "type": "DeFi",
+    "platform": "https://pbs.twimg.com/profile_images/1874825832637603840/Pz4JvKsD_400x400.jpg",
+    "stages": "Finished",
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Life%20Bank%20Chain.pdf"
+    },
     {
     "name": "Vaulta",
     "projectLogo": "https://pbs.twimg.com/profile_images/1907452859806826497/fXOmvCKM_400x400.jpg",
