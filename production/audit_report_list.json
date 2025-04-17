@@ -138,7 +138,7 @@
     "projectLogo": "https://pbs.twimg.com/profile_images/1801298292745322497/6Vqo5_Vr_400x400.jpg",
     "coverage": "Audit",
     "type": "Token",
-    "platform": "https://pbs.twimg.com/profile_images/1627642622645878784/TP1GH9TM_400x400.jpg",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
     "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Smurf%20Cat.pdf"
     },
@@ -147,7 +147,7 @@
     "projectLogo": "https://pbs.twimg.com/profile_images/1813220180555886592/mAhj1bpw_400x400.jpg",
     "coverage": "Audit",
     "type": "DeFi",
-    "platform": "https://pbs.twimg.com/profile_images/1627642622645878784/TP1GH9TM_400x400.jpg",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
     "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/MPAA.pdf"
     },
@@ -174,7 +174,7 @@
     "projectLogo": "https://pbs.twimg.com/profile_images/1817336778225012736/HdLfbgns_400x400.png",
     "coverage": "Audit",
     "type": "Meme Coin",
-    "platform": "https://pbs.twimg.com/profile_images/1627642622645878784/TP1GH9TM_400x400.jpg",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
     "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Ice%20Coin.pdf"
     },
@@ -183,7 +183,7 @@
     "projectLogo": "https://pbs.twimg.com/profile_images/1580473172951851009/PtOEcNZQ_400x400.png",
     "coverage": "Audit",
     "type": "Defi",
-    "platform": "https://pbs.twimg.com/profile_images/1627642622645878784/TP1GH9TM_400x400.jpg",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
     "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Boudless%20Network%20Token.pdf"
     },
@@ -210,7 +210,7 @@
     "projectLogo": "https://pbs.twimg.com/profile_images/1737028930157117440/i2r7rIEV_400x400.png",
     "coverage": "Audit",
     "type": "GameFi",
-    "platform": "https://pbs.twimg.com/profile_images/1627642622645878784/TP1GH9TM_400x400.jpg",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
     "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/The%20Epiko.pdf"
     },
@@ -219,7 +219,7 @@
     "projectLogo": "https://pbs.twimg.com/profile_images/1675843993190506496/HeGzewKw_400x400.jpg",
     "coverage": "Audit",
     "type": "GameFi",
-    "platform": "https://pbs.twimg.com/profile_images/1627642622645878784/TP1GH9TM_400x400.jpg",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
     "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/The%20Sandbox.pdf"
     },
@@ -228,7 +228,7 @@
     "projectLogo": "https://pbs.twimg.com/profile_images/1811583630948597762/9Tv-6VXb_400x400.png",
     "coverage": "Audit",
     "type": "DeFi",
-    "platform": "https://pbs.twimg.com/profile_images/1653532864309239810/ZjT_zBAS_400x400.png",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
     "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Sorta%20Finance.pdf"
     },
@@ -246,7 +246,7 @@
     "projectLogo": "https://pbs.twimg.com/profile_images/1788647985191981058/JItBzm-d_400x400.jpg",
     "coverage": "Audit",
     "type": "SoFi",
-    "platform": "https://pbs.twimg.com/profile_images/1627642622645878784/TP1GH9TM_400x400.jpg",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
     "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Winee3.pdf"
     },
@@ -273,7 +273,7 @@
     "projectLogo": "https://pbs.twimg.com/profile_images/986921773399773184/mxA9KTYS_400x400.jpg",
     "coverage": "Audit",
     "type": "DeFi",
-    "platform": "https://pbs.twimg.com/profile_images/1781425963265327104/TB5fMI9O_400x400.jpg",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
     "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Cipher.pdf"
     },
@@ -291,7 +291,7 @@
     "projectLogo": "https://pbs.twimg.com/profile_images/1742520753377996800/K-1VUdaW_400x400.jpg",
     "coverage": "Audit",
     "type": "Dex",
-    "platform": "https://pbs.twimg.com/profile_images/1605605053901021184/9LNylZAA_400x400.png",
+    "platform": "https://dehacker.s3.ap-southeast-1.amazonaws.com/eth.jpg",
     "stages": "Finished",
     "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Solar%20Dex.pdf"
     },
