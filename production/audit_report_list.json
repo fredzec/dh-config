@@ -1,4 +1,12 @@
 [
+    {"name": "BlockchainFX.com",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1900444739104608256/7Wvr4qf2_400x400.jpg",
+    "coverage": "Audit",
+    "type": "DeFi",
+    "platform": "https://pbs.twimg.com/profile_images/1878738447067652096/tXQbWfpf_400x400.jpg",
+    "stages": "Finished",
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/BlockchainFX.pdf"
+    },
     {"name": "LifeBank Chain",
     "projectLogo": "https://pbs.twimg.com/profile_images/1903709168793698304/fYkbEc_M_400x400.jpg",
     "coverage": "Audit",
