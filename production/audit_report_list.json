@@ -1315,7 +1315,6 @@
     "stages": "Finished",
     "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/API3.pdf"
   },
-
    {
     "name": "VideoFi",
     "projectLogo": "https://dehacker.s3.ap-southeast-1.amazonaws.com/videofi.jpg",
@@ -1325,6 +1324,5 @@
     "stages": "Finished",
     "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/VideoFi.pdf"
   }
-
-     
+    
 ]
