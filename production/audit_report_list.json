@@ -1,5 +1,14 @@
 [
     {
+    "name": "Nexchain",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1900470992855605249/VE16DMaW_400x400.jpg",
+    "coverage": "Audit",
+    "type": "DeFi",
+    "platform": "https://pbs.twimg.com/profile_images/1878738447067652096/tXQbWfpf_400x400.jpg",
+    "stages": "Finished",
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Nexchain.pdf"
+    },
+    {
     "name": "Infinitar",
     "projectLogo": "https://pbs.twimg.com/profile_images/1791320529926017024/7xO50MnT_400x400.jpg",
     "coverage": "Audit",
