@@ -1,5 +1,14 @@
 [
     {
+    "name": "Miro",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1870382158134808576/AOWLG3Ga_400x400.jpg",
+    "coverage": "Audit",
+    "type": "DeFi",
+    "platform": "https://pbs.twimg.com/profile_images/421692600446619648/dWAbC2wg_400x400.jpeg",
+    "stages": "Finished",
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/Miro.pdf"
+    },
+    {
     "name": "Nexchain",
     "projectLogo": "https://pbs.twimg.com/profile_images/1900470992855605249/VE16DMaW_400x400.jpg",
     "coverage": "Audit",
