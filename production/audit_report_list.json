@@ -1,5 +1,14 @@
 [
     {
+    "name": "Mapping Token V2 (MAPO ERC20/BEP20)",
+    "projectLogo": "https://pbs.twimg.com/profile_images/1968590099907756032/34IH7jnF_400x400.jpg",
+    "coverage": "Audit",
+    "type": "Token",
+    "platform": "https://pbs.twimg.com/profile_images/1878738447067652096/tXQbWfpf_400x400.jpg",
+    "stages": "Finished",
+    "auditFileName": "https://github.com/DeHacker-io/audits_public/blob/main/MAPPING%20TOKEN%20%20(MAPO%20ERC20BEP20).pdf"
+    },
+    {
     "name": "BigPump",
     "projectLogo": "https://pbs.twimg.com/profile_images/1928633644266172419/oQ974E2i_400x400.jpg",
     "coverage": "Audit",
